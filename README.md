@@ -1,6 +1,6 @@
-# H1 Module One Challenge
+# Module One Challenge
 
-## H2 Class Information
+## Class Information
 
 **Class Name**
 
@@ -14,7 +14,7 @@ Gavin Goodnight
 
 Ryan Hanzel
 
-### H3 Description
+### Description
 
 -URL: https://ggoodnight0.github.io/activity-1/
 
