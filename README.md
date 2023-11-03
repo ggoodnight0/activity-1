@@ -1,6 +1,6 @@
-#Module One Challenge
+# H1 Module One Challenge
 
-##Class Information
+## H2 Class Information
 
 **Class Name**
 
@@ -14,13 +14,13 @@ Gavin Goodnight
 
 Ryan Hanzel
 
-###Description
+### H3 Description
 
 -URL: https://ggoodnight0.github.io/activity-1/
 
 -GitHub: https://github.com/ggoodnight0/activity-1
 
-First week Coding Challenge
+First week Coding Challenge, requiring the editing and adding of code to an existing page to improve the website of a fictional company.
 
 <img width="947" alt="Screenshot 2023-11-02 233927" src="https://github.com/ggoodnight0/activity-1/assets/148833417/13c7daa6-d3e3-45fc-a526-79e3d226e9ff">
 <img width="948" alt="Screenshot 2023-11-02 233952" src="https://github.com/ggoodnight0/activity-1/assets/148833417/f54c74f8-4476-48f0-a8a5-26525e48f30a">
